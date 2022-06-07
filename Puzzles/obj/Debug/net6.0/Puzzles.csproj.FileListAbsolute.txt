@@ -1,0 +1,15 @@
+/Users/meep/Desktop/C#/Puzzles/bin/Debug/net6.0/Puzzles
+/Users/meep/Desktop/C#/Puzzles/bin/Debug/net6.0/Puzzles.deps.json
+/Users/meep/Desktop/C#/Puzzles/bin/Debug/net6.0/Puzzles.runtimeconfig.json
+/Users/meep/Desktop/C#/Puzzles/bin/Debug/net6.0/Puzzles.dll
+/Users/meep/Desktop/C#/Puzzles/bin/Debug/net6.0/Puzzles.pdb
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.csproj.AssemblyReference.cache
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfoInputs.cache
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfo.cs
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.dll
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/refint/Puzzles.dll
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.pdb
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/Puzzles.genruntimeconfig.cache
+/Users/meep/Desktop/C#/Puzzles/obj/Debug/net6.0/ref/Puzzles.dll
