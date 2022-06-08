@@ -1,0 +1,15 @@
+/Users/meep/Desktop/C#/WizNinSamurai/bin/Debug/net6.0/WizNinSamurai
+/Users/meep/Desktop/C#/WizNinSamurai/bin/Debug/net6.0/WizNinSamurai.deps.json
+/Users/meep/Desktop/C#/WizNinSamurai/bin/Debug/net6.0/WizNinSamurai.runtimeconfig.json
+/Users/meep/Desktop/C#/WizNinSamurai/bin/Debug/net6.0/WizNinSamurai.dll
+/Users/meep/Desktop/C#/WizNinSamurai/bin/Debug/net6.0/WizNinSamurai.pdb
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.csproj.AssemblyReference.cache
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.AssemblyInfoInputs.cache
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.AssemblyInfo.cs
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.csproj.CoreCompileInputs.cache
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.dll
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/refint/WizNinSamurai.dll
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.pdb
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/WizNinSamurai.genruntimeconfig.cache
+/Users/meep/Desktop/C#/WizNinSamurai/obj/Debug/net6.0/ref/WizNinSamurai.dll

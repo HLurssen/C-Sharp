@@ -31,8 +31,8 @@ class Animal
 
     // Methods (functions). Things an animal can do.
 
-    public void makeNoise()
+    public void makeNoise(string sound)
     {
-        Console.WriteLine("Sound");
+        Console.WriteLine(sound);
     }
 }

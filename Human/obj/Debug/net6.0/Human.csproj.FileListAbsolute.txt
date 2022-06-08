@@ -1,0 +1,15 @@
+/Users/meep/Desktop/C#/Human/bin/Debug/net6.0/Human
+/Users/meep/Desktop/C#/Human/bin/Debug/net6.0/Human.deps.json
+/Users/meep/Desktop/C#/Human/bin/Debug/net6.0/Human.runtimeconfig.json
+/Users/meep/Desktop/C#/Human/bin/Debug/net6.0/Human.dll
+/Users/meep/Desktop/C#/Human/bin/Debug/net6.0/Human.pdb
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.csproj.AssemblyReference.cache
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.AssemblyInfoInputs.cache
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.AssemblyInfo.cs
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.csproj.CoreCompileInputs.cache
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.dll
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/refint/Human.dll
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.pdb
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/Human.genruntimeconfig.cache
+/Users/meep/Desktop/C#/Human/obj/Debug/net6.0/ref/Human.dll
